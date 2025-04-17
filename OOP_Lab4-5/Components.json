@@ -1,0 +1,498 @@
+﻿{
+  "CPUs": [
+    {
+      "Name": "AMD Ryzen 5 5600X",
+      "Price": 18990,
+      "ImagePath": "/Images/cpu/5600x.png",
+      "Specifications": [ "Ядра: 6", "Потоки: 12", "Частота: 3.7-4.6 ГГц", "TDP: 65W", "Сокет: AM4" ]
+    },
+    {
+      "Name": "Intel Core i5-12400F",
+      "Price": 15990,
+      "ImagePath": "/Images/cpu/12400f",
+      "Specifications": [ "Ядра: 6", "Потоки: 12", "Частота: 2.5-4.4 ГГц", "TDP: 65W", "Сокет: LGA1700" ]
+    },
+    {
+      "Name": "AMD Ryzen 7 5800X",
+      "Price": 24990,
+      "ImagePath": "/Images/cpu/5800x",
+      "Specifications": [ "Ядра: 8", "Потоки: 16", "Частота: 3.8-4.7 ГГц", "TDP: 105W", "Сокет: AM4" ]
+    },
+    {
+      "Name": "Intel Core i7-12700K",
+      "Price": 28990,
+      "ImagePath": "/Images/cpu/",
+      "Specifications": [ "Ядра: 12", "Потоки: 20", "Частота: 3.6-5.0 ГГц", "TDP: 125W", "Сокет: LGA1700" ]
+    },
+    {
+      "Name": "AMD Ryzen 9 5950X",
+      "Price": 44990,
+      "ImagePath": "/Images/cpu/",
+      "Specifications": [ "Ядра: 16", "Потоки: 32", "Частота: 3.4-4.9 ГГц", "TDP: 105W", "Сокет: AM4" ]
+    },
+    {
+      "Name": "Intel Core i9-12900K",
+      "Price": 49990,
+      "ImagePath": "/Images/cpu/",
+      "Specifications": [ "Ядра: 16", "Потоки: 24", "Частота: 3.2-5.2 ГГц", "TDP: 125W", "Сокет: LGA1700" ]
+    },
+    {
+      "Name": "AMD Ryzen 5 3600",
+      "Price": 12990,
+      "ImagePath": "/Images/cpu/",
+      "Specifications": [ "Ядра: 6", "Потоки: 12", "Частота: 3.6-4.2 ГГц", "TDP: 65W", "Сокет: AM4" ]
+    },
+    {
+      "Name": "Intel Core i3-12100F",
+      "Price": 8990,
+      "ImagePath": "/Images/cpu/",
+      "Specifications": [ "Ядра: 4", "Потоки: 8", "Частота: 3.3-4.3 ГГц", "TDP: 58W", "Сокет: LGA1700" ]
+    },
+    {
+      "Name": "AMD Ryzen 9 5900X",
+      "Price": 37990,
+      "ImagePath": "/Images/cpu/",
+      "Specifications": [ "Ядра: 12", "Потоки: 24", "Частота: 3.7-4.8 ГГц", "TDP: 105W", "Сокет: AM4" ]
+    },
+    {
+      "Name": "Intel Core i5-12600K",
+      "Price": 22990,
+      "ImagePath": "/Images/cpu/",
+      "Specifications": [ "Ядра: 10", "Потоки: 16", "Частота: 3.7-4.9 ГГц", "TDP: 125W", "Сокет: LGA1700" ]
+    }
+  ],
+  "GPUs": [
+    {
+      "Name": "NVIDIA GeForce RTX 3060",
+      "Price": 39990,
+      "ImagePath": "/Images/gpu/",
+      "Specifications": [ "12GB GDDR6", "3584 ядер", "Частота: 1320-1777 МГц", "Потребление: 170W" ]
+    },
+    {
+      "Name": "AMD Radeon RX 6600 XT",
+      "Price": 42990,
+      "ImagePath": "/Images/gpu/",
+      "Specifications": [ "8GB GDDR6", "2048 ядер", "Частота: 1968-2589 МГц", "Потребление: 160W" ]
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 3070",
+      "Price": 59990,
+      "ImagePath": "/Images/gpu/",
+      "Specifications": [ "8GB GDDR6", "5888 ядер", "Частота: 1500-1725 МГц", "Потребление: 220W" ]
+    },
+    {
+      "Name": "AMD Radeon RX 6700 XT",
+      "Price": 54990,
+      "ImagePath": "/Images/gpu/",
+      "Specifications": [ "12GB GDDR6", "2560 ядер", "Частота: 2424-2581 МГц", "Потребление: 230W" ]
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 3080",
+      "Price": 79990,
+      "ImagePath": "/Images/gpu/",
+      "Specifications": [ "10GB GDDR6X", "8704 ядра", "Частота: 1440-1710 МГц", "Потребление: 320W" ]
+    },
+    {
+      "Name": "AMD Radeon RX 6800",
+      "Price": 69990,
+      "ImagePath": "/Images/gpu/",
+      "Specifications": [ "16GB GDDR6", "3840 ядер", "Частота: 1815-2105 МГц", "Потребление: 250W" ]
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 3090",
+      "Price": 129990,
+      "ImagePath": "/Images/gpu/",
+      "Specifications": [ "24GB GDDR6X", "10496 ядер", "Частота: 1395-1695 МГц", "Потребление: 350W" ]
+    },
+    {
+      "Name": "AMD Radeon RX 6900 XT",
+      "Price": 89990,
+      "ImagePath": "/Images/gpu/",
+      "Specifications": [ "16GB GDDR6", "5120 ядер", "Частота: 2015-2250 МГц", "Потребление: 300W" ]
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 3050",
+      "Price": 29990,
+      "ImagePath": "/Images/gpu/",
+      "Specifications": [ "8GB GDDR6", "2560 ядер", "Частота: 1552-1777 МГц", "Потребление: 130W" ]
+    },
+    {
+      "Name": "AMD Radeon RX 6500 XT",
+      "Price": 24990,
+      "ImagePath": "/Images/gpu/",
+      "Specifications": [ "4GB GDDR6", "1024 ядра", "Частота: 2610-2815 МГц", "Потребление: 107W" ]
+    }
+  ],
+  "RAMs": [
+    {
+      "Name": "Corsair Vengeance LPX 16GB",
+      "Price": 5990,
+      "ImagePath": "/Images/ram/",
+      "Specifications": [ "DDR4 3200MHz", "CL16", "2x8GB", "Напряжение: 1.35V" ]
+    },
+    {
+      "Name": "Kingston Fury Beast 32GB",
+      "Price": 10990,
+      "ImagePath": "/Images/ram/",
+      "Specifications": [ "DDR4 3600MHz", "CL18", "2x16GB", "Напряжение: 1.35V" ]
+    },
+    {
+      "Name": "G.Skill Trident Z RGB 32GB",
+      "Price": 12990,
+      "ImagePath": "/Images/ram/",
+      "Specifications": [ "DDR4 3600MHz", "CL16", "2x16GB", "Напряжение: 1.35V" ]
+    },
+    {
+      "Name": "Crucial Ballistix 16GB",
+      "Price": 5490,
+      "ImagePath": "/Images/ram/",
+      "Specifications": [ "DDR4 3200MHz", "CL16", "2x8GB", "Напряжение: 1.35V" ]
+    },
+    {
+      "Name": "HyperX Predator 32GB",
+      "Price": 11990,
+      "ImagePath": "/Images/ram/",
+      "Specifications": [ "DDR4 3200MHz", "CL16", "2x16GB", "Напряжение: 1.35V" ]
+    },
+    {
+      "Name": "Patriot Viper Steel 16GB",
+      "Price": 4990,
+      "ImagePath": "/Images/ram/",
+      "Specifications": [ "DDR4 3200MHz", "CL16", "2x8GB", "Напряжение: 1.35V" ]
+    },
+    {
+      "Name": "Team Group T-Force Delta RGB 32GB",
+      "Price": 11490,
+      "ImagePath": "/Images/ram/",
+      "Specifications": [ "DDR4 3600MHz", "CL18", "2x16GB", "Напряжение: 1.35V" ]
+    },
+    {
+      "Name": "ADATA XPG Spectrix D50 16GB",
+      "Price": 6490,
+      "ImagePath": "/Images/ram/",
+      "Specifications": [ "DDR4 3600MHz", "CL18", "2x8GB", "Напряжение: 1.35V" ]
+    },
+    {
+      "Name": "G.Skill Ripjaws V 64GB",
+      "Price": 18990,
+      "ImagePath": "/Images/ram/",
+      "Specifications": [ "DDR4 3200MHz", "CL16", "2x32GB", "Напряжение: 1.35V" ]
+    },
+    {
+      "Name": "Kingston ValueRAM 8GB",
+      "Price": 2990,
+      "ImagePath": "/Images/ram/",
+      "Specifications": [ "DDR4 2666MHz", "CL19", "1x8GB", "Напряжение: 1.2V" ]
+    }
+  ],
+  "Motherboards": [
+    {
+      "Name": "ASUS ROG Strix B550-F",
+      "Price": 14990,
+      "ImagePath": "/Images/motherboard/",
+      "Specifications": [ "Socket AM4", "AMD B550", "4 слота DDR4", "Форм-фактор: ATX" ]
+    },
+    {
+      "Name": "MSI MAG B660 Tomahawk",
+      "Price": 16990,
+      "ImagePath": "/Images/motherboard/",
+      "Specifications": [ "Socket LGA1700", "Intel B660", "4 слота DDR4", "Форм-фактор: ATX" ]
+    },
+    {
+      "Name": "Gigabyte X570 Aorus Elite",
+      "Price": 18990,
+      "ImagePath": "/Images/motherboard/",
+      "Specifications": [ "Socket AM4", "AMD X570", "4 слота DDR4", "Форм-фактор: ATX" ]
+    },
+    {
+      "Name": "ASRock Z690 Phantom Gaming",
+      "Price": 21990,
+      "ImagePath": "/Images/motherboard/",
+      "Specifications": [ "Socket LGA1700", "Intel Z690", "4 слота DDR4", "Форм-фактор: ATX" ]
+    },
+    {
+      "Name": "ASUS TUF Gaming B450-Plus",
+      "Price": 9990,
+      "ImagePath": "/Images/motherboard/",
+      "Specifications": [ "Socket AM4", "AMD B450", "4 слота DDR4", "Форм-фактор: ATX" ]
+    },
+    {
+      "Name": "MSI MPG B550 Gaming Plus",
+      "Price": 12990,
+      "ImagePath": "/Images/motherboard/",
+      "Specifications": [ "Socket AM4", "AMD B550", "4 слота DDR4", "Форм-фактор: ATX" ]
+    },
+    {
+      "Name": "Gigabyte B660M DS3H",
+      "Price": 10990,
+      "ImagePath": "/Images/motherboard/",
+      "Specifications": [ "Socket LGA1700", "Intel B660", "4 слота DDR4", "Форм-фактор: mATX" ]
+    },
+    {
+      "Name": "ASUS Prime H510M-K",
+      "Price": 7990,
+      "ImagePath": "/Images/motherboard/",
+      "Specifications": [ "Socket LGA1200", "Intel H510", "2 слота DDR4", "Форм-фактор: mATX" ]
+    },
+    {
+      "Name": "Biostar B450MH",
+      "Price": 5990,
+      "ImagePath": "/Images/motherboard/",
+      "Specifications": [ "Socket AM4", "AMD B450", "2 слота DDR4", "Форм-фактор: mATX" ]
+    },
+    {
+      "Name": "ASRock A520M-HDV",
+      "Price": 5490,
+      "ImagePath": "/Images/motherboard/",
+      "Specifications": [ "Socket AM4", "AMD A520", "2 слота DDR4", "Форм-фактор: mATX" ]
+    }
+  ],
+  "PSUs": [
+    {
+      "Name": "Corsair RM750x",
+      "Price": 10990,
+      "ImagePath": "/Images/psu.png",
+      "Specifications": [ "750W", "80+ Gold", "Полумодульный", "Вентилятор: 135mm" ]
+    },
+    {
+      "Name": "be quiet! Straight Power 11 850W",
+      "Price": 12990,
+      "ImagePath": "/Images/psu.png",
+      "Specifications": [ "850W", "80+ Platinum", "Полностью модульный", "Вентилятор: 135mm" ]
+    },
+    {
+      "Name": "Seasonic Focus GX-650",
+      "Price": 8990,
+      "ImagePath": "/Images/psu.png",
+      "Specifications": [ "650W", "80+ Gold", "Полностью модульный", "Вентилятор: 120mm" ]
+    },
+    {
+      "Name": "EVGA SuperNOVA 850 G6",
+      "Price": 11990,
+      "ImagePath": "/Images/psu.png",
+      "Specifications": [ "850W", "80+ Gold", "Полностью модульный", "Вентилятор: 140mm" ]
+    },
+    {
+      "Name": "Thermaltake Toughpower GF1 750W",
+      "Price": 9990,
+      "ImagePath": "/Images/psu.png",
+      "Specifications": [ "750W", "80+ Gold", "Полностью модульный", "Вентилятор: 140mm" ]
+    },
+    {
+      "Name": "Cooler Master MWE Gold 550",
+      "Price": 5990,
+      "ImagePath": "/Images/psu.png",
+      "Specifications": [ "550W", "80+ Gold", "Не модульный", "Вентилятор: 120mm" ]
+    },
+    {
+      "Name": "FSP Hydro G Pro 1000W",
+      "Price": 14990,
+      "ImagePath": "/Images/psu.png",
+      "Specifications": [ "1000W", "80+ Gold", "Полностью модульный", "Вентилятор: 140mm" ]
+    },
+    {
+      "Name": "Deepcool DQ750-M",
+      "Price": 7990,
+      "ImagePath": "/Images/psu.png",
+      "Specifications": [ "750W", "80+ Gold", "Полумодульный", "Вентилятор: 120mm" ]
+    },
+    {
+      "Name": "Chieftec Proton 650W",
+      "Price": 6990,
+      "ImagePath": "/Images/psu.png",
+      "Specifications": [ "650W", "80+ Bronze", "Не модульный", "Вентилятор: 120mm" ]
+    },
+    {
+      "Name": "Aerocool Lux RGB 550W",
+      "Price": 4990,
+      "ImagePath": "/Images/psu.png",
+      "Specifications": [ "550W", "80+ Bronze", "Не модульный", "Вентилятор: 120mm" ]
+    }
+  ],
+  "Storages": [
+    {
+      "Name": "Samsung 980 Pro 1TB",
+      "Price": 12990,
+      "ImagePath": "/Images/ssd.png",
+      "Specifications": [ "NVMe PCIe 4.0", "1TB", "7000/5000 МБ/с", "Ресурс: 600TBW" ]
+    },
+    {
+      "Name": "WD Blue SN570 1TB",
+      "Price": 8990,
+      "ImagePath": "/Images/ssd.png",
+      "Specifications": [ "NVMe PCIe 3.0", "1TB", "3500/3000 МБ/с", "Ресурс: 600TBW" ]
+    },
+    {
+      "Name": "Crucial P5 Plus 1TB",
+      "Price": 10990,
+      "ImagePath": "/Images/ssd.png",
+      "Specifications": [ "NVMe PCIe 4.0", "1TB", "6600/5000 МБ/с", "Ресурс: 600TBW" ]
+    },
+    {
+      "Name": "Seagate FireCuda 530 1TB",
+      "Price": 13990,
+      "ImagePath": "/Images/ssd.png",
+      "Specifications": [ "NVMe PCIe 4.0", "1TB", "7300/6000 МБ/с", "Ресурс: 1275TBW" ]
+    },
+    {
+      "Name": "Kingston KC3000 1TB",
+      "Price": 11990,
+      "ImagePath": "/Images/ssd.png",
+      "Specifications": [ "NVMe PCIe 4.0", "1TB", "7000/6000 МБ/с", "Ресурс: 800TBW" ]
+    },
+    {
+      "Name": "Samsung 870 EVO 1TB",
+      "Price": 9990,
+      "ImagePath": "/Images/ssd.png",
+      "Specifications": [ "SATA III", "1TB", "560/530 МБ/с", "Ресурс: 600TBW" ]
+    },
+    {
+      "Name": "WD Black SN770 1TB",
+      "Price": 10990,
+      "ImagePath": "/Images/ssd.png",
+      "Specifications": [ "NVMe PCIe 4.0", "1TB", "5150/4900 МБ/с", "Ресурс: 600TBW" ]
+    },
+    {
+      "Name": "Crucial MX500 1TB",
+      "Price": 7990,
+      "ImagePath": "/Images/ssd.png",
+      "Specifications": [ "SATA III", "1TB", "560/510 МБ/с", "Ресурс: 360TBW" ]
+    },
+    {
+      "Name": "Seagate BarraCuda 2TB",
+      "Price": 5990,
+      "ImagePath": "/Images/hdd.png",
+      "Specifications": [ "HDD 3.5\"", "2TB", "7200 RPM", "Кэш: 256MB" ]
+    },
+    {
+      "Name": "Toshiba P300 3TB",
+      "Price": 6990,
+      "ImagePath": "/Images/hdd.png",
+      "Specifications": [ "HDD 3.5\"", "3TB", "5400 RPM", "Кэш: 128MB" ]
+    }
+  ],
+  "Coolers": [
+    {
+      "Name": "Noctua NH-D15",
+      "Price": 8990,
+      "ImagePath": "/Images/cooler.png",
+      "Specifications": [ "Башенный", "2 вентилятора", "TDP: 220W", "Высота: 165mm" ]
+    },
+    {
+      "Name": "Cooler Master Hyper 212",
+      "Price": 3490,
+      "ImagePath": "/Images/cooler.png",
+      "Specifications": [ "Башенный", "1 вентилятор", "TDP: 150W", "Высота: 159mm" ]
+    },
+    {
+      "Name": "be quiet! Dark Rock Pro 4",
+      "Price": 7990,
+      "ImagePath": "/Images/cooler.png",
+      "Specifications": [ "Башенный", "2 вентилятора", "TDP: 250W", "Высота: 163mm" ]
+    },
+    {
+      "Name": "Deepcool AS500 Plus",
+      "Price": 4990,
+      "ImagePath": "/Images/cooler.png",
+      "Specifications": [ "Башенный", "2 вентилятора", "TDP: 220W", "Высота: 164mm" ]
+    },
+    {
+      "Name": "Arctic Freezer 34 eSports",
+      "Price": 3990,
+      "ImagePath": "/Images/cooler.png",
+      "Specifications": [ "Башенный", "1 вентилятор", "TDP: 210W", "Высота: 157mm" ]
+    },
+    {
+      "Name": "Scythe Fuma 2",
+      "Price": 5990,
+      "ImagePath": "/Images/cooler.png",
+      "Specifications": [ "Башенный", "2 вентилятора", "TDP: 200W", "Высота: 155mm" ]
+    },
+    {
+      "Name": "Thermalright Peerless Assassin 120",
+      "Price": 5490,
+      "ImagePath": "/Images/cooler.png",
+      "Specifications": [ "Башенный", "2 вентилятора", "TDP: 240W", "Высота: 157mm" ]
+    },
+    {
+      "Name": "ID-COOLING SE-224-XT",
+      "Price": 2490,
+      "ImagePath": "/Images/cooler.png",
+      "Specifications": [ "Башенный", "1 вентилятор", "TDP: 180W", "Высота: 154mm" ]
+    },
+    {
+      "Name": "NZXT Kraken X63",
+      "Price": 11990,
+      "ImagePath": "/Images/cooler.png",
+      "Specifications": [ "СЖО 280mm", "2 вентилятора", "TDP: 300W", "Радиатор: 280mm" ]
+    },
+    {
+      "Name": "Corsair iCUE H100i RGB",
+      "Price": 10990,
+      "ImagePath": "/Images/cooler.png",
+      "Specifications": [ "СЖО 240mm", "2 вентилятора", "TDP: 275W", "Радиатор: 240mm" ]
+    }
+  ],
+  "Cases": [
+    {
+      "Name": "NZXT H510",
+      "Price": 7990,
+      "ImagePath": "/Images/case/",
+      "Specifications": [ "Форм-фактор: Mid-Tower", "Цвет: черный", "Окно: закаленное стекло", "Вентиляторы: 2x120mm" ]
+    },
+    {
+      "Name": "Fractal Design Meshify C",
+      "Price": 8990,
+      "ImagePath": "/Images/case/",
+      "Specifications": [ "Форм-фактор: Mid-Tower", "Цвет: черный", "Окно: закаленное стекло", "Вентиляторы: 2x120mm" ]
+    },
+    {
+      "Name": "Lian Li PC-O11 Dynamic",
+      "Price": 14990,
+      "ImagePath": "/Images/case/",
+      "Specifications": [ "Форм-фактор: Full-Tower", "Цвет: белый", "Окно: закаленное стекло", "Вентиляторы: нет" ]
+    },
+    {
+      "Name": "Corsair 4000D Airflow",
+      "Price": 9990,
+      "ImagePath": "/Images/case/",
+      "Specifications": [ "Форм-фактор: Mid-Tower", "Цвет: черный", "Окно: закаленное стекло", "Вентиляторы: 2x120mm" ]
+    },
+    {
+      "Name": "Cooler Master MasterBox MB520",
+      "Price": 6990,
+      "ImagePath": "/Images/case/",
+      "Specifications": [ "Форм-фактор: Mid-Tower", "Цвет: черный", "Окно: закаленное стекло", "Вентиляторы: 3x120mm" ]
+    },
+    {
+      "Name": "Phanteks Eclipse P400A",
+      "Price": 8490,
+      "ImagePath": "/Images/case/",
+      "Specifications": [ "Форм-фактор: Mid-Tower", "Цвет: черный", "Окно: закаленное стекло", "Вентиляторы: 3x120mm" ]
+    },
+    {
+      "Name": "be quiet! Pure Base 500DX",
+      "Price": 10990,
+      "ImagePath": "/Images/case/",
+      "Specifications": [ "Форм-фактор: Mid-Tower", "Цвет: черный", "Окно: закаленное стекло", "Вентиляторы: 3x140mm" ]
+    },
+    {
+      "Name": "Thermaltake Core P3",
+      "Price": 11990,
+      "ImagePath": "/Images/case/",
+      "Specifications": [ "Форм-фактор: Open Frame", "Цвет: черный", "Окно: закаленное стекло", "Вентиляторы: нет" ]
+    },
+    {
+      "Name": "Deepcool MATREXX 55",
+      "Price": 5990,
+      "ImagePath": "/Images/case/",
+      "Specifications": [ "Форм-фактор: Mid-Tower", "Цвет: черный", "Окно: закаленное стекло", "Вентиляторы: 1x120mm" ]
+    },
+    {
+      "Name": "Aerocool Cylon",
+      "Price": 4990,
+      "ImagePath": "/Images/case/",
+      "Specifications": [ "Форм-фактор: Mid-Tower", "Цвет: черный", "Окно: акрил", "Вентиляторы: 1x120mm" ]
+    }
+  ]
+}

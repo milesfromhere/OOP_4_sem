@@ -1,0 +1,24 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="AppTitle">PC Configurator</system:String>
+    <system:String x:Key="CPUHeader">CPU</system:String>
+    <system:String x:Key="GPUHeader">GPU</system:String>
+    <system:String x:Key="RAMHeader">RAM</system:String>
+    <system:String x:Key="MBHeader">Motherboard</system:String>
+    <system:String x:Key="PSUHeader">Power Supply</system:String>
+    <system:String x:Key="StorageHeader">Storage</system:String>
+    <system:String x:Key="CoolerHeader">Cooling</system:String>
+    <system:String x:Key="CaseHeader">Case</system:String>
+    <system:String x:Key="SelectComponentPrompt">Select component to view details</system:String>
+    <system:String x:Key="ConfigHeader">Your Configuration</system:String>
+    <system:String x:Key="ToggleThemeTooltip">Toggle theme</system:String>
+    <system:String x:Key="SaveButton">Save</system:String>
+    <system:String x:Key="ResetButton">Reset</system:String>
+    <system:String x:Key="ManageComponentsButton">Components managment</system:String>
+    <system:String x:Key="UndoTooltip">Undo</system:String>
+    <system:String x:Key="RedoTooltip">Redo</system:String>
+    <system:String x:Key="AccountButton">Login</system:String>
+
+</ResourceDictionary>

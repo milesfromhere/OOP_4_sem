@@ -1,0 +1,19 @@
+﻿<Application x:Class="OOP_Lab4_5.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!-- Первый словарь - тема -->
+                <ResourceDictionary Source="Styles.xaml"/>
+                <!-- Второй словарь - язык -->
+                <ResourceDictionary Source="Resources/Strings.ru-RU.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <!-- Добавляем кастомный курсор как ресурс -->
+            <Cursor x:Key="MyCustomCursor">C:\Users\nikit\OneDrive\Рабочий стол\ООП\OOP_Lab4-5\Resources\Cursor.cur</Cursor>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
